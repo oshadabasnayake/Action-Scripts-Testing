@@ -1,6 +1,6 @@
 # Action-Scripts-Testing
  ## Adobe Flash
  
-  ![logo file](as.png)
-
+ <center> ![logo file](as.png)</center>
+<img src="as.png" align="center">
  
